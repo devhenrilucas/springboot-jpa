@@ -1,8 +1,6 @@
 package com.learning.course.services;
 
-import com.learning.course.entities.Category;
 import com.learning.course.entities.Product;
-import com.learning.course.repositories.CategoryRepository;
 import com.learning.course.repositories.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
